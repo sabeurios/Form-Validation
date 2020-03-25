@@ -1,0 +1,39 @@
+body{
+    background-color: #563443;
+    font-family: sans-serif;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+form div{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 25%;
+}
+button{
+    background-color:#222236;
+    color: white;
+    border-radius: 5px;
+    border: gray;
+    height: 35px;
+}
+input{
+    background-color:#222236;
+    color: white;
+    border-radius: 5px;
+    border: gray;
+    height: 35px;
+    margin-top: 10px;
+}
+textarea {
+    background-color:#222236;
+    color: white;
+    border-radius: 5px;
+    border: gray;
+    height: 35px;
+    margin-top: 10px;
+}
